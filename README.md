@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofia Lapteva</h1>
 <h3 align="center">A passionate web developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofialapteva" alt="sofialapteva" /></a> </p>
-
 - 🔭 I’m currently working at **Dassault Systemes**
 
 - 💬 Ask me about **Javascript, Typescript and web development**
