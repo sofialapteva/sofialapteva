@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Javascript, Typescript and web development**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sofialapteva/](https://www.linkedin.com/in/sofialapteva/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sofialapteva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofialapteva" height="30" width="40" /></a>
