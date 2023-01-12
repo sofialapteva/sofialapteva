@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofialapteva" alt="sofialapteva" /></a> </p>
 
-- 🔭 I’m currently working in **Dassault Systemes**
+- 🔭 I’m currently working at **Dassault Systemes**
 
 - 💬 Ask me about **Javascript, Typescript and web development**
 
